@@ -113,7 +113,7 @@ First team
     font-size: 20px;
 }
 .position-img{
-    width: 250px;
+    width: 100%;
     transition: 1s;
     
 }
@@ -326,7 +326,7 @@ sub-buton(click to show the large window
     
 }
 .btn {
-    margin: 20px;
+    margin: 27px;
 }
 .btn::after{
     content: " ";
